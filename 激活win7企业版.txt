@@ -1,0 +1,6 @@
+win7企业版激活方式:
+以管理员身份启动cmd
+输入slmgr /skms kms.03k.org
+输入slmgr /ipk 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH
+输入slmgr /ato
+激活成功
