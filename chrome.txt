@@ -1,0 +1,47 @@
+Google Chrome 108.0.5359.72
+Windows版（无更新组件）64位
+https://dl.google.com/release2/chrome/ij3z4ttz6vdcmafpsfp3skmzda_108.0.5359.72/108.0.5359.72_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/ij3z4ttz6vdcmafpsfp3skmzda_108.0.5359.72/108.0.5359.72_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/ij3z4ttz6vdcmafpsfp3skmzda_108.0.5359.72/108.0.5359.72_chrome_installer.exe
+
+
+Google Chrome 108.0.5359.125
+Windows版（无更新组件）64位
+https://dl.google.com/release2/chrome/hpuakki4r2k5lz4mtx5ai5ciby_108.0.5359.125/108.0.5359.125_chrome_installer.exe
+
+
+Google Chrome v107.0.5304.88
+Windows版（无更新组件）64位
+https://dl.google.com/release2/chrome/fe2tkiysefvt2j3qck4xiz5vei_107.0.5304.88/107.0.5304.88_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/fe2tkiysefvt2j3qck4xiz5vei_107.0.5304.88/107.0.5304.88_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/fe2tkiysefvt2j3qck4xiz5vei_107.0.5304.88/107.0.5304.88_chrome_installer.exe
+
+
+
+Google Chrome v109.0.5414.120
+Windows版（无更新组件）64位
+https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+
+Google Chrome 109.0.5414.141 Stable - 支持 Win7 最后一版
+Windows版（无更新组件）64位
+https://dl.google.com/release2/chrome/okwuqsvyf2bgppzm2557sokhb4_109.0.5414.141/109.0.5414.141_chrome_installer.exe
+
+
+Google Chrome v109.0.5414.168 官方正式版
+Windows版（无更新组件）64位
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/nvwf3mhcdg76ot6qwp75ovmh2u_109.0.5414.168/109.0.5414.168_chrome_installer.exe
+Windows版（无更新组件）32位
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/p5iizujxrjjggjfl7d4kvj5e5i_109.0.5414.168/109.0.5414.168_chrome_installer.exe
+
+
+
+Google Chrome 118.0.5993.118官方正式版
+Windows版（无更新组件）64位
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/aklncymu7toeb74y642m3iztui_118.0.5993.118/118.0.5993.118_chrome_installer.exe
+
+
+Google Chrome 118.0.5993.71 Stable 官方最新正式版
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/aca2jfhzuomjxyiwi5poz5yu6dpa_118.0.5993.71/118.0.5993.71_chrome_installer.exe
